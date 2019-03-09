@@ -35,13 +35,13 @@ RUN \
 	libbz2-ocaml-dev \
 	libcap-dev \
 	libcurl4-openssl-dev \
+	libegl1-mesa-dev \
 	libflac-dev \
 	libfmt-dev \
 	libfreetype6-dev \
 	libfstrcmp-dev \
 	libgif-dev \
 	libglew-dev \
-	libglvnd-dev \
 	libiso9660-dev \
 	libjpeg-dev \
 	liblcms2-dev \
@@ -65,6 +65,7 @@ RUN \
 	libxslt-dev \
 	libyajl-dev \
 	make \
+	mesa-utils-extra \
 	nasm \
 	python-dev \
 	rapidjson-dev \
@@ -72,6 +73,7 @@ RUN \
 	uuid-dev \
 	yasm \
 	zip
+
 RUN \
  echo "**** fetch source ****" && \
  mkdir -p \
