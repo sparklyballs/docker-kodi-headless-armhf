@@ -35,7 +35,6 @@ RUN \
 	libbz2-ocaml-dev \
 	libcap-dev \
 	libcurl4-openssl-dev \
-	libegl1-mesa-dev \
 	libflac-dev \
 	libfmt-dev \
 	libfreetype6-dev \
@@ -43,6 +42,7 @@ RUN \
 	libgif-dev \
 	libgles1-mesa-dev \
 	libglew-dev \
+	libglvnd-dev \
 	libiso9660-dev \
 	libjpeg-dev \
 	liblcms2-dev \
