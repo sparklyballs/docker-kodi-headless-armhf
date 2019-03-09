@@ -41,7 +41,7 @@ RUN \
 	libfreetype6-dev \
 	libfstrcmp-dev \
 	libgif-dev \
-	libgles2-mesa-dev \
+	libgles1-mesa-dev \
 	libglew-dev \
 	libiso9660-dev \
 	libjpeg-dev \
