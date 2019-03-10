@@ -42,7 +42,8 @@ RUN \
 	libfstrcmp-dev \
 	libgif-dev \
 	libglew-dev \
-	libiso9660-dev \
+	libglu1-mesa-dev \
+\	libiso9660-dev \
 	libjpeg-dev \
 	liblcms2-dev \
 	liblzo2-dev \
