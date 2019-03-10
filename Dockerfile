@@ -43,7 +43,7 @@ RUN \
 	libgif-dev \
 	libglew-dev \
 	libglu1-mesa-dev \
-\	libiso9660-dev \
+	libiso9660-dev \
 	libjpeg-dev \
 	liblcms2-dev \
 	liblzo2-dev \
